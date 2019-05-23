@@ -1,0 +1,19 @@
+d_home=$2/$3;
+if [ -d "$2" ]; then
+    echo "Adding to category $2"
+else
+    echo "Creating Category $2"
+    mkdir $2;
+fi
+if [ -d "$d_home" ]; then
+    echo "Post already exists"
+    exit;
+fi
+mkdir $d_home;
+mkdir $d_home/contents;
+touch $d_home/contents/en.md;
+touch $d_home/contents/fa.md;
+mkdir $d_home/descriptions;
+touch $d_home/descriptions/en.md;
+touch $d_home/descriptions/fa.md;
+echo "Post created!"
