@@ -1,0 +1,2 @@
+On this post we will discuss what is considered as web development and what is considered as web design.
+You might think that these two are the same, however they are two fields with different requirements!
