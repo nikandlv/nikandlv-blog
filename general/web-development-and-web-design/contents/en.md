@@ -46,8 +46,8 @@ Web development is the field where it involves mostly coding and solving issues 
 
 Web development consists of two parts
 
-Back-end
-Front-end
+* Back-end
+* Front-end
 
 ##### Front-end
 
