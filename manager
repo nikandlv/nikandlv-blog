@@ -1,0 +1,6 @@
+SCRIPT="./scripts/$1"
+if test -f "$SCRIPT"; then
+    ./scripts/$1 "$@"
+else
+    ./scripts/default "$@"
+fi

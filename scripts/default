@@ -1,0 +1,2 @@
+echo "Welcome to the manager";
+echo 'Usage: ./manager $SCRIPT_NAME $PARAMETERS';
