@@ -13,6 +13,7 @@ Let's Discuss them one by one
 
 ### Web Design
 ![Web Designer](../webdesigner.jpg)
+
 Photo by Brad Neathery on Unsplash
 
 Web Design is the most valuable and important part of what we know as user interface design
@@ -37,6 +38,7 @@ Keep in mind that there is no coding here! Just the design and design optimizati
 ### Web Development
 
 ![Web Developer](../webdeveloper.jpg)
+
 Photo by Danial RiCaRoS on Unsplash
 
 Web development is the heart of the web.
