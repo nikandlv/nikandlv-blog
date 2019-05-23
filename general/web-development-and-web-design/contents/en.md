@@ -69,6 +69,7 @@ The job of this developer is to turn the design into code and connect the necess
 Backend is the core and working mind of the web!
 Backend is not just the development of website backend, a backend developer has a wider range of tools and fields to choose from.
 Heres a list of things that backend developers do
+
 * Website backends
 * Application backends
 * Game servers
