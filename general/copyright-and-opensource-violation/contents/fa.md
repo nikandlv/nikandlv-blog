@@ -51,7 +51,6 @@ They even sell the free and open source software without even giving credits to 
 
 ### "خب من نمیتونم بخرمش" "اونا به ما نمیفروشنش"
 
-This is exatly like having suger cubes and saying they dont sell us suger so we are going to steal it.
 این مثل این هست که قند داشته باشین و بگین اونا به ما شکر نمیفروشن پس ما میدزدیم ازشون!
 
 از برنامه های مشابه رایگان استفاده کنید
