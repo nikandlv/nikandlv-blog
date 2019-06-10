@@ -31,7 +31,6 @@
 
 این کمپانی های بزرگ محصولات کرک شده و دزدی شده رو میفروشند
 
-They even sell the free and open source software without even giving credits to the proper source!
 اونا حتی نرم افزار های رایگان و اوپن سورس  رو بدون ذکر منبع درست میفروشند!
 
 ## مشکلات
