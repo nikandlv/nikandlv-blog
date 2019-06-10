@@ -3,7 +3,7 @@
 Me and my friend and a group of people created a software for a specific device.
 We made it free and open sourced so everyone can enjoy it!
 
-Meanwhile another person just took our software and is selling it to other people.
+But now another person just took our software and is selling it to other people.
 
 This is how things work in here :)
 
@@ -61,3 +61,9 @@ Or buy it if you can
 The root of issue is not the consumer its the publishers and distributeur.
 
 They are the one hosting and sharing these softwares illegally.
+
+* download.ir
+* soft98.ir
+* 20script.ir
+* persianscript.ir
+* and alot more
