@@ -67,3 +67,5 @@ They are the one hosting and sharing these softwares illegally.
 * 20script.ir
 * persianscript.ir
 * and alot more
+
+In the attachments you can find a document by my good friend Davoud Soleimani

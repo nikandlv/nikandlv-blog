@@ -1,0 +1,1 @@
+vscode is one of the greatest code editors out there and when it comes to customization you can achieve anything you want! you can take it even further in kde by blurring it.
