@@ -2,4 +2,4 @@ if [ -d "$2" ]; then
     echo "catergory exist";
     exit;
 fi;
-mkdir $2;
+mkdir -p $2;
