@@ -6,4 +6,8 @@ Here are the posts and media used for the posts
 
 `./manager new general hello`
 
+`./manager new programming/javascript my-post`
+
 `./manager newcategory test`
+
+`./manager newcategory programming/c`
